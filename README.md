@@ -2,11 +2,21 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Full%20Stack%20최광훈!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=개인%20서버를%20운영하는%20준비된%20개발자.%20생각하고%20실천하는%20풀스택%20개발자&descAlignY=59&descAlign=50"/>
 </p>
 
-# 최광훈 | 풀스택 개발자
+<p align='center'>
+  <a href="https://hoonee-math.info">
+    <img src="https://img.shields.io/badge/Portfolio-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  </a>
+  <a href="mailto:kwanghoon041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kwanghoon041%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hoonee-math/">
+    <img src="https://img.shields.io/badge/GitHub-hoonee--math-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://hoonee-math.info)
-[![Email](https://img.shields.io/badge/Email-kwanghoon041%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwanghoon041@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hoonee--math-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoonee-math)
+
+
+</br>
 
 ## 👨‍💻 About Me
 
