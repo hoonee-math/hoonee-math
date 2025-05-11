@@ -97,7 +97,7 @@
 
 개인 서버 아키텍처에 대한 간략한 소개입니다. 포트폴리오 웹사이트(https://hoonee-math.info) 를 호스팅하는 인프라 구성입니다.
 
-![나의서버아키텍처](https://github.com/hoonee-math/public/Architecture.png)
+<img src="https://raw.githubusercontent.com/hoonee-math/hoonee-math/refs/heads/main/Architecture.png" alt="아키텍처" />
 
 
 - **서버 환경**: Ubuntu 24.04 LTS
