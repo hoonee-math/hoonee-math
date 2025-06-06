@@ -125,9 +125,10 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonee-math&show_icons=true&theme=radical)](https://github.com/hoonee-math)
+![hoonee's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hoonee-math&hide=stars,issues&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonee-math&layout=compact&theme=radical)](https://github.com/hoonee-math)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonee-math&layout=compact&theme=radical)](https://github.com/hoonee-math)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonee-math&layout=compact&theme=radical&langs_count=8&hide_progress=true)](https://github.com/hoonee-math)
+
 
 
 ## 📫 Let's Connect!
