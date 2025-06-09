@@ -4,19 +4,10 @@
 
 <p align='center'>
   <a href="https://hoonee-math.info">
-    <img src="https://img.shields.io/badge/Portfolio-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
-  </a>
-  <a href="mailto:kwanghoon041@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kwanghoon041%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hoonee-math/">
-    <img src="https://img.shields.io/badge/GitHub-hoonee--math-black?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/포트폴리오%20바로가기-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
   </a>
 </p>
 
-
-
-</br>
 
 ## 👨‍💻 About Me
 
