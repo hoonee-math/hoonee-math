@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://hoonee-math.info">
+  <a href="https://portfolio.hoonee-math.info">
     <img src="https://img.shields.io/badge/포트폴리오%20바로가기-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
   </a>
 </p>
