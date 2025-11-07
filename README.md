@@ -77,25 +77,12 @@
 </br>
 
 ## 🏆 Projects
-### [천재의 서재](https://github.com/ChunJae-Full-Stack-FinalProject) - 중고등 문제은행 웹 서비스 (팀장)
-- Vue.js, Spring Boot, Oracle DB, AWS 환경에서 개발
-- 천재교육 문제은행 API를 활용한 맞춤형 학습지 제작 서비스
-- 담당 영역:
-  - AWS 서버 운영, 기존 운영중인 회사 API 분석 및 부족한 API 대책 마련, API DB 설계 등 프로젝트 회의 주도
-  - 프론트 엔드: JWT 토큰 관리 및 프론트 엔드 로그인/회원가입, 시험지 보관함, 교재 리스트
 
-### [GenieQ](https://github.com/ChunJae-Full-Stack-FinalProject) - AI 지문 및 문항 생성 웹 서비스 (팀장)
-- Open AI를 활용한 주제별 지문 및 문항 생성 서비스 구축
-- 담당 영역:
-  - AWS 서버 운영, 프론트엔드/백엔드 초기 설정, PM 팀과의 의견 조율 및 API 관리
-  - 프론트 엔드: 프로젝트 소개 페이지 제작 [링크](http://43.202.6.90/team/genius/kwanghoon), 지문 생성 AI 서비스 로직 제작
-  - 백엔드: Spring-boot 라이브러리 설정, CORS 설정등 전반적인 설정, 각종 오류상황에 투입하여 문제 해결
-
-### [MomsT/티꿀모아/HoneyT](https://github.com/hoonee-math/Teachers_3_eLearning) (팀장)
-- 학부모 커뮤니티, 중고거래, 온라인 강의 웹 서비스
-- JSP, MyBatis, JQuery 기반 개발
-
-
+<p align='center'>
+  <a href="https://portfolio.hoonee-math.info">
+    <img src="https://img.shields.io/badge/포트폴리오%20바로가기-hoonee--math.info-blue?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  </a>
+</p>
 </br>
 
 ## 🖥️ 운영 Server Architecture
